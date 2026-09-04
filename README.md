@@ -1,2 +1,2 @@
 # class
-our class 
+this is our first class
