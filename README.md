@@ -1,2 +1,2 @@
 # class
-this is our first class
+we are learning how to use
